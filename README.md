@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile%20views&color=0e75b6&style=flat" alt="AP24110011314" /> </p>
 
-<h1 style="text-align: center;">
+<h1 style="text-align: center; margin: 8px 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Aman+Maddheshiya" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=800&center=true&vCenter=true&width=650&height=60&lines=%24+whoami%3A+Aman+Maddheshiya" alt="Title GitHub Readme" />
   </a>
 </h1>
 
@@ -11,13 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanmaddheshiya-886346253)
 [![Mail](https://img.shields.io/badge/Gmail-ak8126659@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:ak8126659@gmail.com?subject=Hey!)
 
-<p align="center">
+<p align="center" style="margin: 4px 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Competitive+Programmer;Open+to+Internships" alt="Roles" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=550&height=40&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Competitive+Programmer;Open+to+Internships" alt="Roles" />
   </a>
 </p>
-
-<br>
 
 # <img src="https://raw.githubusercontent.com/AP24110011314/AP24110011314/main/wave.gif" width="30px"> Hi there
 
