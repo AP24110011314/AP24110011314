@@ -1,11 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile%20views&color=0e75b6&style=flat" alt="AP24110011314" /> </p>
 
-<h1 style="text-align: center; margin: 8px 0;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=800&center=true&vCenter=true&width=650&height=60&lines=%24+whoami%3A+Aman+Maddheshiya" alt="Title GitHub Readme" />
-  </a>
-</h1>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://amanmaddheshiya.me)
 [![GitHub](https://img.shields.io/badge/GitHub-AP24110011314-informational?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/AP24110011314)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanmaddheshiya-886346253)
