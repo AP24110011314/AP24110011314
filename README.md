@@ -34,7 +34,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 💼 Summer Intern — Dabur India Limited HQ, Ghaziabad (Jun–Jul 2023)
 
-🏅 Vikram Sarabhai Spot Test Scholar · ASSET Silver Scholar · NCC 'A' Certificate · VidyaGyan Merit Scholarship · MongoDB Certification
+🏅 MongoDB Certified Associate Developer
 
 </details>
 
