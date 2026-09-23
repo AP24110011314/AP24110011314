@@ -45,46 +45,49 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <!-- vercel stats host is currently down (HTTP 503) - restore when back: ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AP24110011314&layout=compact&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866) -->
-[![My GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AP24110011314&theme=github_dark)](https://github.com/AP24110011314)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP24110011314&theme=dark&hide_border=true&background=1F222E&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F)](https://github.com/AP24110011314)
+[![My GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AP24110011314&theme=github_dark)](https://github.com/AP24110011314) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP24110011314&theme=dark&hide_border=true&background=1F222E&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F)](https://github.com/AP24110011314)
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
 <!-- Repo pin cards (github-readme-stats vercel host is down, HTTP 503) - restore pins when back. Live badges below, all verified. -->
-<p align="center">
-  <a href="https://github.com/AP24110011314/BharatBazzar"><b>🛒 BharatBazzar</b></a> — full-stack e-commerce (listings, cart, auth, admin, wishlist, reviews)
-  <br>
-  <img src="https://img.shields.io/github/stars/AP24110011314/BharatBazzar?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/AP24110011314/BharatBazzar?style=flat-square" alt="top language" />
-  <img src="https://img.shields.io/github/last-commit/AP24110011314/BharatBazzar?style=flat-square" alt="last commit" />
-  <br><br>
-  <a href="https://github.com/AP24110011314/Emulator_8086"><b>🖥️ 8086 Emulator</b></a> — Intel 8086 emulator, browser + native macOS via Tauri (registers, breakpoints, DOS INT 21h)
-  <br>
-  <img src="https://img.shields.io/github/stars/AP24110011314/Emulator_8086?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/AP24110011314/Emulator_8086?style=flat-square" alt="top language" />
-  <img src="https://img.shields.io/github/last-commit/AP24110011314/Emulator_8086?style=flat-square" alt="last commit" />
-  <br><br>
-  <a href="https://github.com/AP24110011314/speak-Ease-Duolingo-Clone"><b>🗣️ Speak Ease</b></a> — Duolingo-style language learning app, MERN stack with gamified lessons & quizzes
-  <br>
-  <img src="https://img.shields.io/github/stars/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="top language" />
-  <img src="https://img.shields.io/github/last-commit/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="last commit" />
-  <br><br>
-  <a href="https://github.com/AP24110011314/data-structure-simulator"><b>🔗 Data Structure Simulator</b></a> — interactive visualizer for Stack, Queue & Linked List
-  <br>
-  <img src="https://img.shields.io/github/stars/AP24110011314/data-structure-simulator?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/AP24110011314/data-structure-simulator?style=flat-square" alt="top language" />
-  <img src="https://img.shields.io/github/last-commit/AP24110011314/data-structure-simulator?style=flat-square" alt="last commit" />
-  <br><br>
-  <a href="https://github.com/AP24110011314/Job-Scheduling--CCC_Project-"><b>🗓️ Job Scheduling (CCC)</b></a> — job scheduling algorithms for workflow & resource optimization (C/C++)
-  <br>
-  <img src="https://img.shields.io/github/stars/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="top language" />
-  <img src="https://img.shields.io/github/last-commit/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="last commit" />
-</p>
-
-<p align="center">🔬 Currently building <a href="https://github.com/AP24110011314/promptFlow-AI"><b>promptFlow-AI</b></a> — academic publication tracking (FastAPI, Scikit-learn, React 19) · TF-IDF + Naive Bayes NLP (98% accuracy, 100% recall, 0.999ms latency) · 50 faculty emails at 100% DOI/Journal accuracy, 937 docs/sec</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/BharatBazzar"><b>🛒 BharatBazzar</b></a>
+      <br><sub>Full-stack e-commerce (listings, cart, auth, admin, wishlist, reviews)</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/BharatBazzar?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/BharatBazzar?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/BharatBazzar?style=flat-square" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/Emulator_8086"><b>🖥️ 8086 Emulator</b></a>
+      <br><sub>Intel 8086 emulator, browser + native macOS via Tauri (registers, breakpoints, DOS INT 21h)</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/Emulator_8086?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Emulator_8086?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Emulator_8086?style=flat-square" alt="last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/speak-Ease-Duolingo-Clone"><b>🗣️ Speak Ease</b></a>
+      <br><sub>Duolingo-style language learning app, MERN stack with gamified lessons & quizzes</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/data-structure-simulator"><b>🔗 Data Structure Simulator</b></a>
+      <br><sub>Interactive visualizer for Stack, Queue & Linked List</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/data-structure-simulator?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/data-structure-simulator?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/data-structure-simulator?style=flat-square" alt="last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/Job-Scheduling--CCC_Project-"><b>🗓️ Job Scheduling (CCC)</b></a>
+      <br><sub>Job scheduling algorithms for workflow & resource optimization (C/C++)</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/promptFlow-AI"><b>🔬 promptFlow-AI</b></a>
+      <br><sub>Academic publication tracking (FastAPI, Scikit-learn, React 19) · TF-IDF + Naive Bayes NLP (98% acc, 100% recall, 0.999ms) · 50 faculty emails, 937 docs/sec</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/promptFlow-AI?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/promptFlow-AI?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/promptFlow-AI?style=flat-square" alt="last commit" />
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/AP24110011314?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
