@@ -70,9 +70,9 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
       <br><img src="https://img.shields.io/github/stars/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AP24110011314/data-structure-simulator"><b>🔗 Data Structure Simulator</b></a>
-      <br><sub>Interactive visualizer for Stack, Queue & Linked List</sub>
-      <br><img src="https://img.shields.io/github/stars/AP24110011314/data-structure-simulator?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/data-structure-simulator?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/data-structure-simulator?style=flat-square" alt="last commit" />
+      <a href="https://github.com/AP24110011314/ProctorX"><b>🔗 ProctorX</b></a>
+      <br><sub>Proctor design project</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/ProctorX?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/ProctorX?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/ProctorX?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
