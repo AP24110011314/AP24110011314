@@ -71,7 +71,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/ProctorX"><b>🔗 ProctorX</b></a>
-      <br><sub>Proctor design project</sub>
+      <br><sub>ProctorX — A web-based examination platform with automated AI-assisted proctoring, secure online assessments, and real-time exam monitoring.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/ProctorX?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/ProctorX?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/ProctorX?style=flat-square" alt="last commit" />
     </td>
   </tr>
