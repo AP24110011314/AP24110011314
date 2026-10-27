@@ -1,7 +1,7 @@
 <p style="margin: 0;">
   <a href="https://amanmaddheshiya.me"><img src="https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-informational?style=flat-square&color=181717&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/amanmaddheshiya-886346253"><img src="https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/aman-maddheshiya"><img src="https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ak8126659@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Gmail-ak8126659@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" alt="Mail" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
