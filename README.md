@@ -18,7 +18,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 💻 Full-Stack Developer & Competitive Programmer · 🔬 Research Intern · 📍 Amaravati, India
 
-🏆 173 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
+🏆 196 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
 
 <details>
 <summary><b>More about me</b></summary>
@@ -77,14 +77,26 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AP24110011314/Job-Scheduling--CCC_Project-"><b>🗓️ Job Scheduling (CCC)</b></a>
-      <br><sub>Job scheduling algorithms for workflow & resource optimization (C/C++)</sub>
-      <br><img src="https://img.shields.io/github/stars/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Job-Scheduling--CCC_Project-?style=flat-square" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/promptFlow-AI"><b>🔬 promptFlow-AI</b></a>
       <br><sub>Academic publication tracking (FastAPI, Scikit-learn, React 19) · TF-IDF + Naive Bayes NLP (98% acc, 100% recall, 0.999ms) · 50 faculty emails, 937 docs/sec</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/promptFlow-AI?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/promptFlow-AI?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/promptFlow-AI?style=flat-square" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/MeetScribe"><b>🎙️ MeetScribe</b></a>
+      <br><sub>AI meeting notes: Whisper audio transcription, automated summaries, decisions & action items (FastAPI, Celery, React)</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/MeetScribe?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/MeetScribe?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/MeetScribe?style=flat-square" alt="last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/CozyStays-HotelRoomBookingSystem"><b>🏨 CozyStays</b></a>
+      <br><sub>Full-stack hotel room booking platform with availability search, room filtering, booking management & payments (MERN)</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314/Developer-Learning-Tracker"><b>📊 Developer Learning Tracker</b></a>
+      <br><sub>BigO: MERN app to log DSA problems, track streaks & goals, sync LeetCode/Codeforces stats</sub>
+      <br><img src="https://img.shields.io/github/stars/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="last commit" />
     </td>
   </tr>
 </table>
