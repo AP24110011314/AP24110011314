@@ -250,7 +250,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 <p align="center">
   <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/2026_Contributions-507-2ea44f?style=flat-square&logo=github&logoColor=white" alt="2026 Contributions" /></a>
+  <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/2026_Contributions-508-2ea44f?style=flat-square&logo=github&logoColor=white" alt="2026 Contributions" /></a>
   <a href="https://github.com/AP24110011314?tab=followers"><img src="https://img.shields.io/github/followers/AP24110011314?style=flat-square&label=Followers&color=236ad3&logo=github" alt="Followers" /></a>
   <a href="https://github.com/AP24110011314?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-28-181717?style=flat-square&logo=github" alt="Repos" /></a>
 </p>
@@ -287,42 +287,37 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 </table>
 
 <details open>
-<summary><b>🐍 Contribution Snake & Commit Activity (507 Contributions in 2026)</b></summary>
+<summary><b>🐍 Contribution Calendar & Activity Matrix</b></summary>
 <br>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" align="center">📊 2026 Contributions</th>
-      <th width="34%" align="center">⚡ Recent Peak Sprint</th>
-      <th width="33%" align="center">🌱 2025 Contributions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <b>507 contributions</b> in the last year
-        <br><sub>Consistent commits across systems & full-stack repos</sub>
-      </td>
-      <td align="center">
-        <b>Sep – Nov 2026</b>
-        <br><sub>High-intensity daily shipping streak</sub>
-      </td>
-      <td align="center">
-        <b>24 contributions</b>
-        <br><sub>Foundational exploratory commits</sub>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-          <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%; max-width: 900px;" />
-        </picture>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="left">
+      <b>508 contributions in 2026</b>
+      <br><sub>Active development across systems, AI/ML, and full-stack engineering</sub>
+    </td>
+    <td align="right">
+      <a href="https://github.com/AP24110011314?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/2026-508_Contributions-238636?style=flat-square&logo=github&logoColor=white" alt="2026 contributions" /></a>
+      <a href="https://github.com/AP24110011314?tab=overview&from=2025-01-01&to=2025-12-31"><img src="https://img.shields.io/badge/2025-24_Contributions-6e7681?style=flat-square&logo=github&logoColor=white" alt="2025 contributions" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+        <img alt="GitHub Contribution Snake" src="./images/github-snake-dark.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank"><sub>Learn how we count contributions</sub></a>
+    </td>
+    <td align="right">
+      <sub><b>Peak Consistency:</b> Sep – Nov 2026 &nbsp;|&nbsp; <b>Total Public Repos:</b> 28</sub>
+    </td>
+  </tr>
 </table>
 
 </details>

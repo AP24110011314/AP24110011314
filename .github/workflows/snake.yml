@@ -29,6 +29,10 @@ jobs:
             images/github-snake.svg
             images/github-snake-dark.svg?palette=github-dark
 
+      - name: Enhance Snake SVGs with Days, Months, and Table Grid
+        run: |
+          python3 .github/scripts/enhance_snake.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
