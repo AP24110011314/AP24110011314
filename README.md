@@ -38,11 +38,13 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 <a href="https://github.com/AP24110011314"><img src="./assets/open-to-work.svg" alt="Open to internships & collaborations" /></a>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="20"> Currently Building & Learning
+<!-- RECENT_REPOS:START -->
 - 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Ledger wallet service (Java 21, Spring Boot, PostgreSQL, Docker)
 - 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor (Monaco, Yjs/CRDT)
 - 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiovascular risk assessment system (Python)
 - 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Real-time auction & bidding platform (TypeScript)
 - 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Community job portal for local opportunities (JavaScript)
+<!-- RECENT_REPOS:END -->
 
 <details>
 <summary><b>🎓 More about my education & background</b></summary>
@@ -246,10 +248,10 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 <h2 id="-stats--activity"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="24"> Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
-  <img src="https://img.shields.io/github/followers/AP24110011314?style=flat-square&label=Followers&color=236ad3&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Public_Repos-28-181717?style=flat-square&logo=github" alt="Repos" />
+  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://github.com/AP24110011314?tab=followers"><img src="https://img.shields.io/github/followers/AP24110011314?style=flat-square&label=Followers&color=236ad3&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/AP24110011314?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-28-181717?style=flat-square&logo=github" alt="Repos" /></a>
 </p>
 
 <table width="100%">
@@ -301,10 +303,6 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%; max-width: 900px;" />
 </picture>
 </details>
-
-<!-- RECENT_REPOS:START -->
-<!-- (auto-updated daily by .github/workflows/update-recent-repos.yml) -->
-<!-- RECENT_REPOS:END -->
 
 ---
 

@@ -1,4 +1,4 @@
-name: Update Recent Repositories
+name: Update README Recent Repositories
 
 on:
   schedule:

@@ -2,7 +2,6 @@ import os
 import re
 import urllib.request
 import json
-from datetime import datetime
 
 USERNAME = "AP24110011314"
 URL = f"https://api.github.com/users/{USERNAME}/repos?sort=pushed&per_page=15"
@@ -39,11 +38,26 @@ EMOJIS = {
     "speak-Ease-Duolingo-Clone": "🗣️",
 }
 
+SHORT_DESCS = {
+    "VaultCore": "Ledger wallet service (Java 21, Spring Boot, PostgreSQL, Docker)",
+    "CodeTogether": "Real-time collaborative code editor (Monaco, Yjs/CRDT)",
+    "CardioLens": "Cardiovascular risk assessment system (Python)",
+    "Nilami": "Real-time auction & bidding platform (TypeScript)",
+    "Rozgaar": "Community job portal for local opportunities (JavaScript)",
+    "ProctorDesign": "Online exam platform with AI proctoring (Django REST, React)",
+    "promptFlow-AI": "Academic publication tracking platform (FastAPI, React)",
+    "MeetScribe": "AI meeting notes and action items (FastAPI, React)",
+    "BharatBazzar": "Full-stack e-commerce solution (React, Node.js)",
+    "Developer-Learning-Tracker": "DSA progress and stats tracking app (MERN)",
+    "Emulator_8086": "Intel 8086 microprocessor simulator (Tauri)",
+    "CozyStays-HotelRoomBookingSystem": "Hotel booking management platform (MERN)",
+    "speak-Ease-Duolingo-Clone": "Language learning app with gamified lessons (MERN)",
+}
+
 DEFAULT_EMOJI = "📦"
 
 filtered_repos = []
 for r in repos:
-    # Exclude profile repository itself and forks
     if r.get("name") == USERNAME or r.get("fork"):
         continue
     filtered_repos.append(r)
@@ -54,19 +68,15 @@ lines = []
 for r in filtered_repos:
     name = r.get("name", "")
     html_url = r.get("html_url", f"https://github.com/{USERNAME}/{name}")
-    desc = r.get("description") or "Repository"
+    raw_desc = r.get("description") or "Repository"
     lang = r.get("language") or "Code"
-    pushed_at = r.get("pushed_at", "")
-    date_str = ""
-    if pushed_at:
-        try:
-            dt = datetime.strptime(pushed_at, "%Y-%m-%dT%H:%M:%SZ")
-            date_str = dt.strftime("%b %d, %Y")
-        except Exception:
-            date_str = pushed_at[:10]
+    if name in SHORT_DESCS:
+        desc = SHORT_DESCS[name]
+    else:
+        words = raw_desc.split()
+        desc = " ".join(words[:7]) + (f" ({lang})" if lang else "")
     emoji = EMOJIS.get(name, DEFAULT_EMOJI)
-    suffix = f" · *Updated {date_str}*" if date_str else ""
-    lines.append(f"- {emoji} **[{name}]({html_url})** — {desc} ({lang}){suffix}")
+    lines.append(f"- {emoji} **[{name}]({html_url})** — {desc}")
 
 new_content = "\n".join(lines)
 
@@ -74,10 +84,11 @@ with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
 pattern = r"(<!-- RECENT_REPOS:START -->\n)(?:[\s\S]*?)(\n<!-- RECENT_REPOS:END -->)"
-replacement = r"\g<1>" + new_content + r"\g<2>"
-updated_readme = re.sub(pattern, replacement, readme)
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated_readme)
-
-print("Successfully updated README.md with recent repositories.")
+if re.search(pattern, readme):
+    replacement = r"\g<1>" + new_content + r"\g<2>"
+    updated_readme = re.sub(pattern, replacement, readme)
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(updated_readme)
+    print("Successfully updated README.md with recent repositories.")
+else:
+    print("RECENT_REPOS markers not found in README.md.")
