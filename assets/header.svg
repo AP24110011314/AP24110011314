@@ -1,49 +1,51 @@
-
-      <svg
-        width="854"
-        height="140"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 140"
-      >
-        <style>
-      .text {   font-size: 38px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#fc00ff"/><stop offset="100%" stop-color="#00dbde"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 70) scale(1, 1) translate(-427, -70)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 60Q 213.5 100 427 70T 854 95L 854 0 Z;M0 0L 0 85Q 213.5 100 427 80T 854 70L 854 0 Z;M0 0L 0 105Q 213.5 75 427 105T 854 70L 854 0 Z;M0 0L 0 60Q 213.5 100 427 70T 854 95L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 75Q 213.5 120 427 90T 854 100L 854 0 Z;M0 0L 0 90Q 213.5 60 427 60T 854 80L 854 0 Z;M0 0L 0 85Q 213.5 65 427 90T 854 105L 854 0 Z;M0 0L 0 75Q 213.5 120 427 90T 854 100L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >Aman Maddheshiya</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#f7f5f5;">AI & ML · Full-Stack · Competitive Programmer</text>
-      </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 140" width="100%" height="140">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fc00ff"/>
+      <stop offset="100%" stop-color="#00dbde"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes waveA {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-30px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes waveB {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(30px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .wave1 {
+      animation: waveA 14s ease-in-out infinite;
+    }
+    .wave2 {
+      animation: waveB 18s ease-in-out infinite;
+    }
+    .title {
+      font-size: 38px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      fill: #ffffff;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    .desc {
+      font-size: 19px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      fill: #f1f5f9;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+  </style>
+  <g>
+    <path class="wave1" d="M-30,0 L-30,65 Q180,115 427,75 T884,95 L884,0 Z" fill="url(#headerGrad)" opacity="0.4"/>
+    <path class="wave2" d="M-30,0 L-30,85 Q213,55 427,85 T884,70 L884,0 Z" fill="url(#headerGrad)" opacity="0.4"/>
+    <path d="M0,0 L0,55 Q213.5,95 427,65 T854,80 L854,0 Z" fill="url(#headerGrad)" opacity="0.5"/>
+  </g>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="title">Aman Maddheshiya</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="65%" class="desc">AI &amp; ML · Full-Stack · Competitive Programmer</text>
+</svg>
