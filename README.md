@@ -232,6 +232,45 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <a href="https://github.com/AP24110011314?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%2028%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+---
+
+<h2 id="-coding-profiles">🧠 Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze_Badge)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
+<h2 id="-github-activity">📈 GitHub Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/AP24110011314">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP24110011314&theme=dark&hide_border=true&background=1F222E&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AP24110011314">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AP24110011314&theme=github_dark" alt="GitHub Language Stats" />
+  </a>
+  <a href="https://github.com/AP24110011314">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AP24110011314&theme=github_dark" alt="GitHub Profile Details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AP24110011314">
+    <img src="https://ghchart.rshah.org/F85D7F/AP24110011314" alt="Aman's GitHub Contributions Calendar" style="width: 100%; max-width: 850px;" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
