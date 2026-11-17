@@ -47,10 +47,38 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — SRM University, Andhra Pradesh *(Jun 2024 – Jun 2028)* · **CGPA: 9.4 / 10.0**
 - 🏫 **Intermediate (Class XII), CBSE** — VidyaGyan Leadership Academy, UP *(Jun 2022 – Apr 2024)* · **87.50%**
 <!-- TODO: confirm Class X % (96.4 vs 95.4) -->
-- 🏫 **High School (Class X), CBSE** — VidyaGyan Leadership Academy, UP *(Jun 2022 – Apr 2024)* · **95.4%**
+- 🏫 **High School (Class X), CBSE** — VidyaGyan Leadership Academy, UP *(Completed 2022)* · **95.4%**
 - 🌟 **Young Scholar** — Ashoka University, Sonipat, Haryana *(May–Jun 2023)* · **100% Scholarship** (selected for liberal arts intensive in critical thinking, research, and interdisciplinary learning)
 - 💼 **Summer Intern** — Dabur India Limited HQ, Ghaziabad *(Jun–Jul 2023)* · 14-day corporate internship in FMCG operations & cross-functional processes
 - 🏅 **MongoDB Certified Associate Developer** — MongoDB, Inc. *(Apr 2026)*
+
+</details>
+
+<details>
+<summary><b>🏆 Honors, Scholarships & Certifications</b></summary>
+<br>
+
+- 🥇 **100% Merit Scholarship** — SRM University AP *(2024–Present)*
+- 🌟 **Ashoka University Young Scholar** — 100% Scholarship *(2023)*
+- 🎓 **Shiv Nadar Foundation Scholar** — Awarded 7-Year Merit Scholarship *(Class VI–XII, 2017–2024)*
+- 🏅 **MongoDB Certified Associate Developer** — MongoDB, Inc. *(Apr 2026)*
+- 🥉 **CodeChef Problem Solver Bronze Badge** — 206 problems solved
+- 💻 **LeetCode Problem Solver** — Solved 211 problems (C++), DSA/complexity focus
+
+</details>
+
+---
+
+<h2 id="-experience">💼 Experience</h2>
+
+<details open>
+<summary><b>Work History & Research Internships</b></summary>
+<br>
+
+| Role | Organization & Location | Period | Highlights & Key Deliverables |
+| :--- | :--- | :--- | :--- |
+| **Research Intern** | **SRM University AP**<br><sub>Amaravati, Andhra Pradesh</sub> | Jun 2026 – Jul 2026 | • Built **promptFlow-AI**, an academic publication tracking platform (FastAPI, Scikit-learn, React 19).<br>• Integrated a TF-IDF + Naive Bayes NLP service achieving **98.00% accuracy**, **100% recall**, and **0.999 ms inference latency**.<br>• Engineered backend metadata-extraction pipelines processing **50 real faculty publication emails** with **100% DOI/Journal resolution accuracy** at **937 docs/sec throughput**.<br>• Built multi-tenant notification tracking with OpenPyXL/ReportLab export services reaching **1,267 records/sec** throughput. |
+| **Summer Intern** | **Dabur India Limited HQ**<br><sub>Ghaziabad, Uttar Pradesh</sub> | Jun 2023 – Jul 2023 | • Completed a 14-day internship at Dabur's corporate headquarters.<br>• Gained cross-functional exposure to FMCG corporate operations, business workflow automations, and industrial processes. |
 
 </details>
 
