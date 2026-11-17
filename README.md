@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Aman%20Maddheshiya&fontSize=38&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Competitive%20Programmer&descAlignY=58" width="100%" alt="header" />
+  <img src="./assets/header.svg" width="100%" alt="Aman Maddheshiya" />
 </p>
 
 <p style="margin: 0;">
@@ -12,7 +12,7 @@
 
 <p align="center" style="margin: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=800&center=true&vCenter=true&width=620&height=32&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Building+VaultCore%2C+CodeTogether+%26+more;Open+to+Internships" alt="Roles" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=800&center=true&vCenter=true&width=620&height=32&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Building+VaultCore%2C+CodeTogether+and+more;Open+to+Internships" alt="Roles" />
   </a>
 </p>
 
@@ -285,15 +285,6 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   </tr>
 </table>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AP24110011314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-<!-- fallback: if trophy host is 503, this collapses to nothing visible -->
-</details>
-
 <details open>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br>
@@ -331,5 +322,5 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
+  <img src="./assets/footer.svg" width="100%" alt="footer" />
 </p>
