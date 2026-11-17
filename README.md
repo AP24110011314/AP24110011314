@@ -3,6 +3,7 @@
   <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-informational?style=flat-square&color=181717&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/aman-maddheshiya"><img src="https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ak8126659@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Gmail-ak8126659@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" alt="Mail" /></a>
+  <a href="./Aman_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&color=8B5CF6&logo=googledocs&logoColor=white" alt="Resume" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -276,3 +277,35 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%;" />
 </picture>
+
+---
+
+<h2 id="-recent-activity">🕒 Recent Activity & Latest Repositories</h2>
+
+<!-- RECENT_REPOS:START -->
+- 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Ledger-based wallet service for gaming & loyalty platforms using double-entry bookkeeping (Java) · *Updated Nov 2026*
+- 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiac diagnostic intelligence and automated cardiovascular risk assessment (Python) · *Updated Nov 2026*
+- 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Modern real-time auction and bidding platform with live ledger state updates (TypeScript) · *Updated Nov 2026*
+- 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Hyperlocal employment portal connecting blue-collar workers and verified employers (JavaScript) · *Updated Nov 2026*
+- 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor with Monaco, CRDT synchronization, and live execution (JavaScript) · *Updated Nov 2026*
+<!-- RECENT_REPOS:END -->
+
+<p align="center">
+  <sub>🔄 <i>Synced automatically via GitHub Actions & GitHub REST API</i></sub>
+</p>
+
+---
+
+<h2 id="-connect-with-me">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://amanmaddheshiya.me"><img src="https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-00ADB5?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aman-maddheshiya"><img src="https://img.shields.io/badge/LinkedIn-aman--maddheshiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:ak8126659@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Email-ak8126659%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="./Aman_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+  &nbsp;
+  <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
