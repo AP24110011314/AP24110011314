@@ -82,9 +82,53 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 </details>
 
-## 🛠️ Languages & Tools
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,py,html,css,react,nodejs,express,fastapi,mongodb,postgres,git&theme=dark)](https://skillicons.dev)
+<h2 id="-technical-skills">🛠️ Technical Skills</h2>
+
+<table>
+  <tr>
+    <td width="22%"><b>Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark" alt="Languages" /></a>
+      <br><sub><b>Python</b>, <b>C++</b>, <b>JavaScript (ES6+)</b>, <b>TypeScript</b>, <b>HTML/CSS</b>, <b>SQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind&theme=dark" alt="Frameworks" /></a>
+      <br><sub><b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>FastAPI</b>, <b>Flask</b>, <b>Tailwind CSS</b>, <b>Socket.IO</b>, <b>Pandas</b>, <b>NumPy</b>, <b>Scikit-Learn</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" /></a>
+      <br><sub><b>PostgreSQL</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>Redis</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Machine Learning</b></td>
+    <td>
+      <code>LLMs</code> &nbsp; <code>RAG</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>NLP</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Multi-Agent Systems</code> &nbsp; <code>Ollama</code>
+      <br><sub>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, Natural Language Processing (NLP), Computer Vision, Multi-Agent Systems, Ollama</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions,postman&theme=dark" alt="Cloud & DevOps" /></a>
+      <br><sub><b>AWS</b>, <b>Microsoft Azure (OpenAI)</b>, <b>Docker</b>, <b>Git</b>, <b>GitHub Actions</b>, <b>CI/CD</b>, <b>REST APIs</b>, <b>Postman</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core Computer Science</b></td>
+    <td>
+      <code>Data Structures & Algorithms (DSA)</code> &nbsp; <code>System Design</code> &nbsp; <code>OOP</code> &nbsp; <code>DBMS</code> &nbsp; <code>Software Engineering</code>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
