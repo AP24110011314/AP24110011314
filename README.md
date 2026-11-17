@@ -18,7 +18,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 💻 Full-Stack Developer & Competitive Programmer · 🔬 Research Intern · 📍 Amaravati, India
 
-🏆 196 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
+🏆 211 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
 
 <details>
 <summary><b>More about me</b></summary>
@@ -28,13 +28,14 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 🎓 Class XII, CBSE — VidyaGyan Leadership Academy (87.5%, 2024)
 
-🎓 Class X, CBSE — VidyaGyan Leadership Academy (96.4%, 2022)
+<!-- TODO: confirm Class X % (96.4 vs 95.4) -->
+🎓 Class X, CBSE — VidyaGyan Leadership Academy (95.4%, 2022)
 
 🎓 Young Scholar — Ashoka University, 100% scholarship (May–Jun 2023)
 
 💼 Summer Intern — Dabur India Limited HQ, Ghaziabad (Jun–Jul 2023)
 
-🏅 MongoDB Certified Associate Developer
+🏅 MongoDB Certified Associate Developer (Apr 2026)
 
 </details>
 
