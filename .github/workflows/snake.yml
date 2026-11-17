@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 6 * * *' # Runs daily at 06:00 UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'images/**'
 
 permissions:
   contents: write

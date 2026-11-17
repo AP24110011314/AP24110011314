@@ -250,6 +250,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 <p align="center">
   <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/2026_Contributions-507-2ea44f?style=flat-square&logo=github&logoColor=white" alt="2026 Contributions" /></a>
   <a href="https://github.com/AP24110011314?tab=followers"><img src="https://img.shields.io/github/followers/AP24110011314?style=flat-square&label=Followers&color=236ad3&logo=github" alt="Followers" /></a>
   <a href="https://github.com/AP24110011314?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-28-181717?style=flat-square&logo=github" alt="Repos" /></a>
 </p>
@@ -286,13 +287,44 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 </table>
 
 <details open>
-<summary><b>🐍 Contribution Snake</b></summary>
+<summary><b>🐍 Contribution Snake & Commit Activity (507 Contributions in 2026)</b></summary>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%; max-width: 900px;" />
-</picture>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="center">📊 2026 Contributions</th>
+      <th width="34%" align="center">⚡ Recent Peak Sprint</th>
+      <th width="33%" align="center">🌱 2025 Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>507 contributions</b> in the last year
+        <br><sub>Consistent commits across systems & full-stack repos</sub>
+      </td>
+      <td align="center">
+        <b>Sep – Nov 2026</b>
+        <br><sub>High-intensity daily shipping streak</sub>
+      </td>
+      <td align="center">
+        <b>24 contributions</b>
+        <br><sub>Foundational exploratory commits</sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+          <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%; max-width: 900px;" />
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
 
 ---
