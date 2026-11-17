@@ -12,7 +12,20 @@
   </a>
 </p>
 
-# <img src="https://raw.githubusercontent.com/AP24110011314/AP24110011314/main/wave.gif" width="30px"> Hi there
+<p align="center">
+  <a href="#-about-me"><b>About</b></a> •
+  <a href="#-experience"><b>Experience</b></a> •
+  <a href="#-technical-skills"><b>Skills</b></a> •
+  <a href="#-featured-projects"><b>Projects</b></a> •
+  <a href="#-coding-profiles"><b>Profiles</b></a> •
+  <a href="#-github-activity"><b>Activity</b></a> •
+  <a href="#-recent-activity"><b>Recent</b></a> •
+  <a href="#-connect-with-me"><b>Connect</b></a>
+</p>
+
+---
+
+<h2 id="-about-me"><img src="https://raw.githubusercontent.com/AP24110011314/AP24110011314/main/wave.gif" width="28px"> About Me</h2>
 
 My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Pradesh 🇮🇳 (CGPA 9.4/10.0).
 
@@ -20,22 +33,24 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 🏆 211 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
 
+### ⚡ Currently Building & Learning
+- 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Double-entry bookkeeping ledger wallet service in Java 21, Spring Boot, PostgreSQL & Docker with strict concurrency control.
+- 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor with Monaco, Yjs/CRDT state synchronization, and live code execution.
+- 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiac diagnostic analysis & cardiovascular risk assessment system in Python.
+- 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Modern real-time auction and bidding platform built with TypeScript.
+- 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Community job portal connecting blue-collar workers and verified local opportunities in JavaScript.
+
 <details>
-<summary><b>More about me</b></summary>
+<summary><b>🎓 More about my education & background</b></summary>
 <br>
 
-🎓 B.Tech, AI & Machine Learning — SRM University, Andhra Pradesh (2024–2028)
-
-🎓 Class XII, CBSE — VidyaGyan Leadership Academy (87.5%, 2024)
-
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — SRM University, Andhra Pradesh *(Jun 2024 – Jun 2028)* · **CGPA: 9.4 / 10.0**
+- 🏫 **Intermediate (Class XII), CBSE** — VidyaGyan Leadership Academy, UP *(Jun 2022 – Apr 2024)* · **87.50%**
 <!-- TODO: confirm Class X % (96.4 vs 95.4) -->
-🎓 Class X, CBSE — VidyaGyan Leadership Academy (95.4%, 2022)
-
-🎓 Young Scholar — Ashoka University, 100% scholarship (May–Jun 2023)
-
-💼 Summer Intern — Dabur India Limited HQ, Ghaziabad (Jun–Jul 2023)
-
-🏅 MongoDB Certified Associate Developer (Apr 2026)
+- 🏫 **High School (Class X), CBSE** — VidyaGyan Leadership Academy, UP *(Jun 2022 – Apr 2024)* · **95.4%**
+- 🌟 **Young Scholar** — Ashoka University, Sonipat, Haryana *(May–Jun 2023)* · **100% Scholarship** (selected for liberal arts intensive in critical thinking, research, and interdisciplinary learning)
+- 💼 **Summer Intern** — Dabur India Limited HQ, Ghaziabad *(Jun–Jul 2023)* · 14-day corporate internship in FMCG operations & cross-functional processes
+- 🏅 **MongoDB Certified Associate Developer** — MongoDB, Inc. *(Apr 2026)*
 
 </details>
 
