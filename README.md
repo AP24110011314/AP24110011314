@@ -1,15 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Aman%20Maddheshiya&fontSize=38&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Competitive%20Programmer&descAlignY=58" width="100%" alt="header" />
+</p>
+
 <p style="margin: 0;">
   <a href="https://amanmaddheshiya.me"><img src="https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-informational?style=flat-square&color=181717&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/aman-maddheshiya"><img src="https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ak8126659@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Gmail-ak8126659@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" alt="Mail" /></a>
   <a href="./Aman_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&color=8B5CF6&logo=googledocs&logoColor=white" alt="Resume" /></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center" style="margin: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=800&center=true&vCenter=true&width=550&height=32&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Competitive+Programmer;Open+to+Internships" alt="Roles" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=800&center=true&vCenter=true&width=620&height=32&color=F85D7F&lines=B.Tech+AI+%26+ML+Student;Full-Stack+Developer;Building+VaultCore%2C+CodeTogether+%26+more;Open+to+Internships" alt="Roles" />
   </a>
 </p>
 
@@ -18,28 +21,28 @@
   <a href="#-experience"><b>Experience</b></a> •
   <a href="#-technical-skills"><b>Skills</b></a> •
   <a href="#-featured-projects"><b>Projects</b></a> •
-  <a href="#-coding-profiles"><b>Profiles</b></a> •
-  <a href="#-github-activity"><b>Activity</b></a> •
-  <a href="#-recent-activity"><b>Recent</b></a> •
+  <a href="#-stats--activity"><b>Stats</b></a> •
   <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
 ---
 
-<h2 id="-about-me"><img src="https://raw.githubusercontent.com/AP24110011314/AP24110011314/main/wave.gif" width="28px"> About Me</h2>
+<h2 id="-about-me"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28"> About Me</h2>
 
 My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Pradesh 🇮🇳 (CGPA 9.4/10.0).
 
-💻 Full-Stack Developer & Competitive Programmer · 🔬 Research Intern · 📍 Amaravati, India
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="18"> Full-Stack Developer & Competitive Programmer · 🔬 Research Intern · 📍 Amaravati, India
 
-🏆 211 LeetCode · 206 CodeChef (Bronze Badge) · 🚀 Open to internships & collaborations
+🏆 211 LeetCode · 206 CodeChef (Bronze Badge)
 
-### ⚡ Currently Building & Learning
-- 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Double-entry bookkeeping ledger wallet service in Java 21, Spring Boot, PostgreSQL & Docker with strict concurrency control.
-- 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor with Monaco, Yjs/CRDT state synchronization, and live code execution.
-- 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiac diagnostic analysis & cardiovascular risk assessment system in Python.
-- 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Modern real-time auction and bidding platform built with TypeScript.
-- 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Community job portal connecting blue-collar workers and verified local opportunities in JavaScript.
+<a href="https://github.com/AP24110011314"><img src="./assets/open-to-work.svg" alt="Open to internships & collaborations" /></a>
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="20"> Currently Building & Learning
+- 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Ledger wallet service (Java 21, Spring Boot, PostgreSQL, Docker)
+- 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor (Monaco, Yjs/CRDT)
+- 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiovascular risk assessment system (Python)
+- 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Real-time auction & bidding platform (TypeScript)
+- 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Community job portal for local opportunities (JavaScript)
 
 <details>
 <summary><b>🎓 More about my education & background</b></summary>
@@ -70,7 +73,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-experience">💼 Experience</h2>
+<h2 id="-experience"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="24"> Experience</h2>
 
 <details open>
 <summary><b>Work History & Research Internships</b></summary>
@@ -78,8 +81,8 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 | Role | Organization & Location | Period | Highlights & Key Deliverables |
 | :--- | :--- | :--- | :--- |
-| **Research Intern** | **SRM University AP**<br><sub>Amaravati, Andhra Pradesh</sub> | Jun 2026 – Jul 2026 | • Built **promptFlow-AI**, an academic publication tracking platform (FastAPI, Scikit-learn, React 19).<br>• Integrated a TF-IDF + Naive Bayes NLP service achieving **98.00% accuracy**, **100% recall**, and **0.999 ms inference latency**.<br>• Engineered backend metadata-extraction pipelines processing **50 real faculty publication emails** with **100% DOI/Journal resolution accuracy** at **937 docs/sec throughput**.<br>• Built multi-tenant notification tracking with OpenPyXL/ReportLab export services reaching **1,267 records/sec** throughput. |
-| **Summer Intern** | **Dabur India Limited HQ**<br><sub>Ghaziabad, Uttar Pradesh</sub> | Jun 2023 – Jul 2023 | • Completed a 14-day internship at Dabur's corporate headquarters.<br>• Gained cross-functional exposure to FMCG corporate operations, business workflow automations, and industrial processes. |
+| **Research Intern** | **SRM University AP**<br><sub>Amaravati, Andhra Pradesh</sub> | Jun 2026 – Jul 2026 | • Built **promptFlow-AI** (FastAPI, Scikit-learn, React 19) — academic publication tracking with TF-IDF + Naive Bayes NLP (98% accuracy, 100% recall, 0.999 ms inference).<br>• Processed **50 faculty emails** at 100% DOI/Journal resolution, **937 docs/sec** throughput.<br>• OpenPyXL/ReportLab export services at **1,267 records/sec**. |
+| **Summer Intern** | **Dabur India Limited HQ**<br><sub>Ghaziabad, Uttar Pradesh</sub> | Jun 2023 – Jul 2023 | • Completed a 14-day internship at Dabur's corporate headquarters.<br>• Gained exposure to FMCG corporate operations and cross-functional processes. |
 
 </details>
 
@@ -92,35 +95,33 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
     <td width="22%"><b>Languages</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark" alt="Languages" /></a>
-      <br><sub><b>Python</b>, <b>C++</b>, <b>JavaScript (ES6+)</b>, <b>TypeScript</b>, <b>HTML/CSS</b>, <b>SQL</b></sub>
+      <br><sub>+ SQL</sub>
     </td>
   </tr>
   <tr>
     <td><b>Frameworks & Libraries</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind&theme=dark" alt="Frameworks" /></a>
-      <br><sub><b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>FastAPI</b>, <b>Flask</b>, <b>Tailwind CSS</b>, <b>Socket.IO</b>, <b>Pandas</b>, <b>NumPy</b>, <b>Scikit-Learn</b></sub>
+      <br><sub>+ Socket.IO, Pandas, NumPy, Scikit-Learn</sub>
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" /></a>
-      <br><sub><b>PostgreSQL</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>Redis</b></sub>
     </td>
   </tr>
   <tr>
     <td><b>AI / Machine Learning</b></td>
     <td>
       <code>LLMs</code> &nbsp; <code>RAG</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>NLP</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Multi-Agent Systems</code> &nbsp; <code>Ollama</code>
-      <br><sub>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, Natural Language Processing (NLP), Computer Vision, Multi-Agent Systems, Ollama</sub>
     </td>
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions,postman&theme=dark" alt="Cloud & DevOps" /></a>
-      <br><sub><b>AWS</b>, <b>Microsoft Azure (OpenAI)</b>, <b>Docker</b>, <b>Git</b>, <b>GitHub Actions</b>, <b>CI/CD</b>, <b>REST APIs</b>, <b>Postman</b></sub>
+      <br><sub>+ Azure OpenAI, CI/CD, REST APIs</sub>
     </td>
   </tr>
   <tr>
@@ -133,55 +134,55 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-featured-projects">👨‍💻 Featured Projects</h2>
+<h2 id="-featured-projects"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="24"> Featured Projects</h2>
 
 <!-- Repo pin cards (github-readme-stats vercel host is down, HTTP 503) - live shields.io badges verified below. -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/VaultCore"><b>🪙 VaultCore</b></a>
-      <br><sub>Ledger-based wallet service for gaming & loyalty platforms using double-entry bookkeeping (balanced debits & credits, sum to zero). Pessimistic row-level locking (<code>SELECT ... FOR UPDATE</code>) in ascending UUID order eliminates deadlocks, verified under 20-thread concurrency tests. Strict idempotency, multi-stage Docker build, OpenAPI/Swagger docs, and 38 passing tests. (Java 21, Spring Boot, PostgreSQL, Docker)</sub>
+      <br><sub>Double-entry bookkeeping ledger wallet (Java 21, Spring Boot, PostgreSQL, Docker). Pessimistic row-level locking, 20-thread concurrency tests, strict idempotency, 38 passing tests.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/VaultCore?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/VaultCore?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/VaultCore?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/ProctorDesign"><b>🛡️ ProctorX</b></a>
-      <br><sub>Full-stack online examination platform (Django REST + React 19 + Vite) with JWT auth & refresh rotation, default-deny RBAC, server-authoritative timer, and deterministic question randomization. AI-assisted proctoring logs suspicious events with severity-weighted integrity scoring for human review, auto-grading with negative marking, CSV/PDF export, backed by 93 passing backend tests.</sub>
+      <br><sub>Online exam platform (Django REST + React 19 + Vite) with JWT refresh rotation, default-deny RBAC, AI-assisted proctoring, severity-weighted integrity scoring, 93 passing tests.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/ProctorDesign?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/ProctorDesign?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/ProctorDesign?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/promptFlow-AI"><b>🔬 promptFlow-AI</b></a>
-      <br><sub>Academic publication tracking platform (FastAPI, Scikit-learn, React 19) with TF-IDF + Naive Bayes NLP service achieving 98% accuracy, 100% recall, and 0.999 ms inference latency. Processes faculty publication emails with 100% DOI/Journal resolution accuracy at 937 docs/sec, with OpenPyXL/ReportLab exports at 1,267 records/sec.</sub>
+      <br><sub>Academic publication tracking (FastAPI, Scikit-learn, React 19). TF-IDF + Naive Bayes NLP — 98% accuracy, 100% recall, 0.999 ms inference, 937 docs/sec.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/promptFlow-AI?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/promptFlow-AI?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/promptFlow-AI?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/CodeTogether"><b>👥 CodeTogether</b></a>
-      <br><sub>Real-time collaborative code editor powered by Monaco Editor and Yjs/CRDT state synchronization. Features live multi-user cursor tracking, multi-language execution sandbox, room-based presence, and synchronized group chat.</sub>
+      <br><sub>Real-time collaborative code editor with Monaco, Yjs/CRDT sync, live cursors, multi-language execution, and room chat.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/CodeTogether?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/CodeTogether?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/CodeTogether?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/BharatBazzar"><b>🛒 BharatBazzar</b></a>
-      <br><sub>Full-stack e-commerce solution featuring categorized product catalogs, persistent shopping cart, JWT authentication, administrative control panel, wishlist management, and customer product reviews.</sub>
+      <br><sub>Full-stack e-commerce with product catalogs, cart, JWT auth, admin panel, wishlist, and reviews.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/BharatBazzar?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/BharatBazzar?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/BharatBazzar?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/Developer-Learning-Tracker"><b>📊 Developer Learning Tracker</b></a>
-      <br><sub>BigO: Full-stack MERN application for developers to log DSA problems, projects, and learning targets. Features automated LeetCode/Codeforces stats sync, streak tracking, interactive Recharts progress graphs, and a shareable public profile.</sub>
+      <br><sub>MERN app to log DSA problems and track progress with LeetCode/Codeforces stats sync, streaks, and Recharts graphs.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Developer-Learning-Tracker?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/MeetScribe"><b>🎙️ MeetScribe</b></a>
-      <br><sub>AI-powered meeting intelligence system leveraging OpenAI Whisper for speech-to-text transcription, asynchronous Celery task pipelines, and automated synthesis of executive summaries, key decisions, and actionable tasks (FastAPI, Celery, React).</sub>
+      <br><sub>AI meeting notes — Whisper transcription, Celery pipelines, automated summaries, decisions & action items (FastAPI, React).</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/MeetScribe?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/MeetScribe?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/MeetScribe?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/Emulator_8086"><b>🖥️ 8086 Emulator</b></a>
-      <br><sub>Full-featured Intel 8086 microprocessor simulation environment running in browser and as a native macOS desktop application via Tauri. Supports register state inspection, memory visualization, execution breakpoints, and DOS INT 21h interrupt routines.</sub>
+      <br><sub>Intel 8086 emulator in browser + native macOS via Tauri — registers, memory, breakpoints, DOS INT 21h.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/Emulator_8086?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Emulator_8086?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Emulator_8086?style=flat-square" alt="last commit" />
     </td>
   </tr>
@@ -195,34 +196,41 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/CardioLens"><b>🫀 CardioLens</b></a>
-      <br><sub>Python-powered cardiovascular risk modeling and cardiac diagnostics platform assisting automated risk stratifications from clinical telemetry.</sub>
+      <!-- TODO: verify description -->
+      <br><sub>Heart disease prediction and cardiovascular risk analysis tool built with Python.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/CardioLens?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/CardioLens?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/CardioLens?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/Nilami"><b>🔨 Nilami</b></a>
-      <br><sub>Real-time online auction and competitive bidding platform built in TypeScript with live WebSocket updates and synchronized bid ledger states.</sub>
+      <!-- TODO: verify description -->
+      <br><sub>Real-time online auction and bidding platform built with TypeScript.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/Nilami?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Nilami?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Nilami?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/Rozgaar"><b>💼 Rozgaar</b></a>
-      <br><sub>Hyperlocal employment portal connecting informal & blue-collar wage workers with verified local employers via lightweight JavaScript interfaces.</sub>
+      <!-- TODO: verify description -->
+      <br><sub>Community job portal connecting blue-collar workers with local opportunities, built with JavaScript.</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/Rozgaar?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/Rozgaar?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/Rozgaar?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/CozyStays-HotelRoomBookingSystem"><b>🏨 CozyStays</b></a>
-      <br><sub>Full-stack hotel room booking platform with real-time room availability, granular room filtering, reservation life-cycle management, and secure checkout (MERN).</sub>
+      <!-- TODO: verify description -->
+      <br><sub>Full-stack hotel booking platform with room availability, filtering, and reservation management (MERN).</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/CozyStays-HotelRoomBookingSystem?style=flat-square" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AP24110011314/speak-Ease-Duolingo-Clone"><b>🗣️ Speak Ease</b></a>
-      <br><sub>Duolingo-inspired language learning platform built with MERN stack featuring gamified skill trees, streak multipliers, and interactive pronunciation quizzes.</sub>
+      <!-- TODO: verify description -->
+      <br><sub>Duolingo-style language-learning app with gamified lessons and quizzes (MERN stack).</sub>
       <br><img src="https://img.shields.io/github/stars/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="stars" /> <img src="https://img.shields.io/github/languages/top/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="top language" /> <img src="https://img.shields.io/github/last-commit/AP24110011314/speak-Ease-Duolingo-Clone?style=flat-square" alt="last commit" />
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/AP24110011314?tab=repositories"><b>📦 …and more</b></a>
+      <br><sub>See all 28 repositories on my GitHub profile.</sub>
     </td>
   </tr>
 </table>
@@ -235,64 +243,68 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-coding-profiles">🧠 Coding Profiles</h2>
+<h2 id="-stats--activity"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="24"> Stats & Activity</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze_Badge)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-211_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/CodeChef-206_Solved_(Bronze)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/github/followers/AP24110011314?style=flat-square&label=Followers&color=236ad3&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-28-181717?style=flat-square&logo=github" alt="Repos" />
 </p>
 
----
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AP24110011314">
+        <picture>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP24110011314&theme=dark&hide_border=true&background=0D1117&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F" width="100%" alt="GitHub Streak Stats" />
+        </picture>
+      </a>
+      <!-- fallback: if streak-stats is 503, see https://img.shields.io/badge/Streak-Active-F85D7F?style=flat-square -->
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AP24110011314">
+        <picture>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AP24110011314&theme=github_dark" width="100%" alt="Top Languages" />
+        </picture>
+      </a>
+      <!-- fallback: if summary-cards is 503, see https://img.shields.io/badge/Top_Lang-JavaScript-F7DF1E?style=flat-square -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/AP24110011314">
+        <picture>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=AP24110011314&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&height=200" width="100%" alt="Activity Graph" />
+        </picture>
+      </a>
+      <!-- fallback: if activity-graph is 503, the row is visually empty but the layout stays intact -->
+    </td>
+  </tr>
+</table>
 
-<h2 id="-github-activity">📈 GitHub Activity</h2>
-
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
 <p align="center">
-  <a href="https://github.com/AP24110011314">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP24110011314&theme=dark&hide_border=true&background=1F222E&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AP24110011314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
+<!-- fallback: if trophy host is 503, this collapses to nothing visible -->
+</details>
 
-<p align="center">
-  <a href="https://github.com/AP24110011314">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AP24110011314&theme=github_dark" alt="GitHub Language Stats" />
-  </a>
-  <a href="https://github.com/AP24110011314">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AP24110011314&theme=github_dark" alt="GitHub Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AP24110011314">
-    <img src="https://ghchart.rshah.org/F85D7F/AP24110011314" alt="Aman's GitHub Contributions Calendar" style="width: 100%; max-width: 850px;" />
-  </a>
-</p>
-
+<details open>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%;" />
+  <img alt="github-snake" src="./images/github-snake-dark.svg" style="width: 100%; max-width: 900px;" />
 </picture>
-
----
-
-<h2 id="-recent-activity">🕒 Recent Activity & Latest Repositories</h2>
+</details>
 
 <!-- RECENT_REPOS:START -->
-- 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Ledger-based wallet service for gaming & loyalty platforms using double-entry bookkeeping (Java) · *Updated Nov 2026*
-- 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiac diagnostic intelligence and automated cardiovascular risk assessment (Python) · *Updated Nov 2026*
-- 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Modern real-time auction and bidding platform with live ledger state updates (TypeScript) · *Updated Nov 2026*
-- 💼 **[Rozgaar](https://github.com/AP24110011314/Rozgaar)** — Hyperlocal employment portal connecting blue-collar workers and verified employers (JavaScript) · *Updated Nov 2026*
-- 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor with Monaco, CRDT synchronization, and live execution (JavaScript) · *Updated Nov 2026*
+<!-- (auto-updated daily by .github/workflows/update-recent-repos.yml) -->
 <!-- RECENT_REPOS:END -->
-
-<p align="center">
-  <sub>🔄 <i>Synced automatically via GitHub Actions & GitHub REST API</i></sub>
-</p>
 
 ---
 
@@ -308,4 +320,18 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <a href="./Aman_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
   &nbsp;
   <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=350&height=22&lines=Shipping+something+every+day+%F0%9F%94%A5" alt="footer" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
 </p>
