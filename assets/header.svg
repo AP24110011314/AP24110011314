@@ -1,51 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 140" width="100%" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160">
   <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fc00ff"/>
-      <stop offset="100%" stop-color="#00dbde"/>
+    <linearGradient id="aurora1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#0070f3"/>
+    </linearGradient>
+    <linearGradient id="aurora2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00dfd8"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#ff0080"/>
+    </linearGradient>
+    <linearGradient id="aurora3" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
     </linearGradient>
   </defs>
   <style>
-    @keyframes waveA {
+    @keyframes waveLeft {
       0% { transform: translateX(0); }
-      50% { transform: translateX(-30px); }
+      100% { transform: translateX(-450px); }
+    }
+    @keyframes waveRight {
+      0% { transform: translateX(-450px); }
       100% { transform: translateX(0); }
     }
-    @keyframes waveB {
-      0% { transform: translateX(0); }
-      50% { transform: translateX(30px); }
-      100% { transform: translateX(0); }
+    .w1 {
+      animation: waveLeft 8s linear infinite;
     }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
+    .w2 {
+      animation: waveRight 12s linear infinite;
     }
-    .wave1 {
-      animation: waveA 14s ease-in-out infinite;
+    .w3 {
+      animation: waveLeft 6s linear infinite;
     }
-    .wave2 {
-      animation: waveB 18s ease-in-out infinite;
+    @keyframes twinkle1 {
+      0%, 100% { opacity: 0.2; transform: scale(0.6); }
+      50% { opacity: 1; transform: scale(1.4); }
     }
+    @keyframes twinkle2 {
+      0%, 100% { opacity: 0.9; transform: scale(1.3); }
+      50% { opacity: 0.2; transform: scale(0.5); }
+    }
+    @keyframes twinkle3 {
+      0%, 100% { opacity: 0.3; transform: scale(0.8) translateY(0); }
+      50% { opacity: 1; transform: scale(1.5) translateY(-4px); }
+    }
+    .star { fill: #ffffff; filter: drop-shadow(0 0 4px #00dfd8); }
+    .s1 { animation: twinkle1 3s ease-in-out infinite; transform-origin: 120px 40px; }
+    .s2 { animation: twinkle2 4s ease-in-out infinite; transform-origin: 280px 25px; }
+    .s3 { animation: twinkle3 2.5s ease-in-out infinite; transform-origin: 450px 18px; }
+    .s4 { animation: twinkle1 3.5s ease-in-out infinite; transform-origin: 620px 30px; }
+    .s5 { animation: twinkle2 2.8s ease-in-out infinite; transform-origin: 780px 45px; }
+    .s6 { animation: twinkle3 4.2s ease-in-out infinite; transform-origin: 80px 95px; }
+    .s7 { animation: twinkle1 3.2s ease-in-out infinite; transform-origin: 820px 85px; }
+    .s8 { animation: twinkle2 3.8s ease-in-out infinite; transform-origin: 340px 95px; }
+    .s9 { animation: twinkle3 2.6s ease-in-out infinite; transform-origin: 560px 100px; }
     .title {
       font-size: 38px;
-      font-weight: 700;
+      font-weight: 800;
+      letter-spacing: 1.5px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
       fill: #ffffff;
-      animation: fadeIn 1.2s ease-in-out forwards;
+      filter: drop-shadow(0 2px 14px rgba(121, 40, 202, 0.7));
     }
     .desc {
-      font-size: 19px;
-      font-weight: 500;
+      font-size: 17px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      fill: #f1f5f9;
-      animation: fadeIn 1.2s ease-in-out forwards;
+      fill: #f8fafc;
+      filter: drop-shadow(0 1px 6px rgba(0, 0, 0, 0.6));
     }
   </style>
   <g>
-    <path class="wave1" d="M-30,0 L-30,65 Q180,115 427,75 T884,95 L884,0 Z" fill="url(#headerGrad)" opacity="0.4"/>
-    <path class="wave2" d="M-30,0 L-30,85 Q213,55 427,85 T884,70 L884,0 Z" fill="url(#headerGrad)" opacity="0.4"/>
-    <path d="M0,0 L0,55 Q213.5,95 427,65 T854,80 L854,0 Z" fill="url(#headerGrad)" opacity="0.5"/>
+    <path class="w1" d="M0,0 L0,85 Q112.5,55 225,85 T450,85 Q562.5,55 675,85 T900,85 Q1012.5,55 1125,85 T1350,85 L1350,0 Z" fill="url(#aurora1)" opacity="0.45"/>
+    <path class="w2" d="M0,0 L0,70 Q112.5,100 225,70 T450,70 Q562.5,100 675,70 T900,70 Q1012.5,100 1125,70 T1350,70 L1350,0 Z" fill="url(#aurora2)" opacity="0.4"/>
+    <path class="w3" d="M0,0 L0,60 Q112.5,35 225,60 T450,60 Q562.5,35 675,60 T900,60 Q1012.5,35 1125,60 T1350,60 L1350,0 Z" fill="url(#aurora3)" opacity="0.55"/>
   </g>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="title">Aman Maddheshiya</text>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="65%" class="desc">AI &amp; ML · Full-Stack · Competitive Programmer</text>
+  <g>
+    <circle cx="120" cy="40" r="2.5" class="star s1"/>
+    <circle cx="280" cy="25" r="3" class="star s2"/>
+    <circle cx="450" cy="18" r="2" class="star s3"/>
+    <circle cx="620" cy="30" r="3" class="star s4"/>
+    <circle cx="780" cy="45" r="2" class="star s5"/>
+    <circle cx="80" cy="95" r="2.5" class="star s6"/>
+    <circle cx="820" cy="85" r="3" class="star s7"/>
+    <circle cx="340" cy="95" r="2" class="star s8"/>
+    <circle cx="560" cy="100" r="2.5" class="star s9"/>
+  </g>
+  <text text-anchor="middle" dominant-baseline="middle" x="450" y="46" class="title">Aman Maddheshiya</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="450" y="88" class="desc">AI &amp; ML · Full-Stack · Competitive Programmer</text>
 </svg>

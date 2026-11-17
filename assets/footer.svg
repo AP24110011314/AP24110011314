@@ -1,22 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 70" width="100%" height="70">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 85" width="100%" height="85">
   <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fc00ff"/>
-      <stop offset="100%" stop-color="#00dbde"/>
+    <linearGradient id="footGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#0070f3"/>
+    </linearGradient>
+    <linearGradient id="footGrad2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00dfd8"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#ff0080"/>
     </linearGradient>
   </defs>
   <style>
-    @keyframes waveFoot {
+    @keyframes waveLeft {
       0% { transform: translateX(0); }
-      50% { transform: translateX(-25px); }
+      100% { transform: translateX(-450px); }
+    }
+    @keyframes waveRight {
+      0% { transform: translateX(-450px); }
       100% { transform: translateX(0); }
     }
-    .wave-foot {
-      animation: waveFoot 15s ease-in-out infinite;
+    .w1 {
+      animation: waveLeft 10s linear infinite;
+    }
+    .w2 {
+      animation: waveRight 7s linear infinite;
+    }
+    @keyframes rise {
+      0% { opacity: 0; transform: translateY(10px) scale(0.6); }
+      50% { opacity: 0.9; transform: translateY(0) scale(1.2); }
+      100% { opacity: 0; transform: translateY(-10px) scale(0.6); }
+    }
+    .p1 { animation: rise 3s ease-in-out infinite; transform-origin: 150px 35px; }
+    .p2 { animation: rise 4s ease-in-out infinite 1s; transform-origin: 320px 45px; }
+    .p3 { animation: rise 3.5s ease-in-out infinite 0.5s; transform-origin: 580px 40px; }
+    .p4 { animation: rise 4.5s ease-in-out infinite 1.5s; transform-origin: 750px 30px; }
+    .star { fill: #ffffff; filter: drop-shadow(0 0 4px #00dfd8); }
+    .foot-text {
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      fill: #e2e8f0;
+      filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.6));
     }
   </style>
   <g>
-    <path class="wave-foot" d="M-30,25 Q180,5 427,30 T884,15 L884,70 L-30,70 Z" fill="url(#footerGrad)" opacity="0.4"/>
-    <path d="M0,35 Q213.5,15 427,40 T854,25 L854,70 L0,70 Z" fill="url(#footerGrad)" opacity="0.5"/>
+    <path class="w1" d="M0,85 L0,25 Q112.5,5 225,25 T450,25 Q562.5,5 675,25 T900,25 Q1012.5,5 1125,25 T1350,25 L1350,85 Z" fill="url(#footGrad1)" opacity="0.45"/>
+    <path class="w2" d="M0,85 L0,38 Q112.5,58 225,38 T450,38 Q562.5,58 675,38 T900,38 Q1012.5,58 1125,38 T1350,38 L1350,85 Z" fill="url(#footGrad2)" opacity="0.55"/>
   </g>
+  <g>
+    <circle cx="150" cy="35" r="2" class="star p1"/>
+    <circle cx="320" cy="45" r="2.5" class="star p2"/>
+    <circle cx="580" cy="40" r="2" class="star p3"/>
+    <circle cx="750" cy="30" r="2.5" class="star p4"/>
+  </g>
+  <text text-anchor="middle" dominant-baseline="middle" x="450" y="65" class="foot-text">✨ Driven by Curiosity · Fueled by Code 🚀</text>
 </svg>

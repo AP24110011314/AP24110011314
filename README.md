@@ -75,7 +75,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-experience"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="24"> Experience</h2>
+<h2 id="-experience">💼 Experience</h2>
 
 <details open>
 <summary><b>Work History & Research Internships</b></summary>
@@ -90,7 +90,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-technical-skills">🛠️ Technical Skills</h2>
+<h2 id="-technical-skills"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="24"> Technical Skills</h2>
 
 <table>
   <tr>
@@ -324,7 +324,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ---
 
-<h2 id="-connect-with-me">📫 Connect With Me</h2>
+<h2 id="-connect-with-me"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="24"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://amanmaddheshiya.me"><img src="https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-00ADB5?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
