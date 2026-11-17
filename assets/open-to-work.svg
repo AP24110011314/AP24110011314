@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" viewBox="0 0 280 28">
+  <style>
+    @keyframes pulse {
+      0%, 100% { r: 5; opacity: 1; }
+      50% { r: 7; opacity: 0.6; }
+    }
+    .dot { animation: pulse 1.8s ease-in-out infinite; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #58a6ff; }
+  </style>
+  <circle class="dot" cx="10" cy="14" r="5" fill="#3fb950"/>
+  <text class="label" x="22" y="18">Open to internships &amp; collaborations</text>
+</svg>
