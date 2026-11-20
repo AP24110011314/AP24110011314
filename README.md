@@ -39,9 +39,9 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="20"> Currently Building & Learning
 <!-- RECENT_REPOS:START -->
+- 📦 **[Java-Practice](https://github.com/AP24110011314/Java-Practice)** — Repository (Java)
 - 🪙 **[VaultCore](https://github.com/AP24110011314/VaultCore)** — Ledger wallet service (Java 21, Spring Boot, PostgreSQL, Docker)
 - 🫀 **[CardioLens](https://github.com/AP24110011314/CardioLens)** — Cardiovascular risk assessment system (Python)
-- 📦 **[Java-Practice](https://github.com/AP24110011314/Java-Practice)** — Repository (Java)
 - 🔨 **[Nilami](https://github.com/AP24110011314/Nilami)** — Real-time auction & bidding platform (TypeScript)
 - 👥 **[CodeTogether](https://github.com/AP24110011314/CodeTogether)** — Real-time collaborative code editor (Monaco, Yjs/CRDT)
 <!-- RECENT_REPOS:END -->
