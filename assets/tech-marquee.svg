@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="100%" height="36">
+  <defs>
+    <clipPath id="marqueeClip">
+      <rect x="1" y="1" width="898" height="34" rx="8" ry="8"/>
+    </clipPath>
+    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes scrollTrack {
+      0% { transform: translateX(0px); }
+      100% { transform: translateX(-1248px); }
+    }
+    .track {
+      animation: scrollTrack 24s linear infinite;
+    }
+    .pill {
+      fill: #161B22;
+      stroke-width: 1;
+    }
+    .txt {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #E6EDF3;
+    }
+  </style>
+  <rect x="1" y="1" width="898" height="34" rx="8" ry="8" fill="#0D1117"/>
+  <g clip-path="url(#marqueeClip)">
+    <g class="track">
+      <g>
+        <rect class="pill" x="12" y="7" width="68" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="24" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="32" y="22">LLMs</text>
+
+        <rect class="pill" x="90" y="7" width="64" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="102" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="110" y="22">RAG</text>
+
+        <rect class="pill" x="164" y="7" width="88" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="176" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="184" y="22">FastAPI</text>
+
+        <rect class="pill" x="262" y="7" width="114" height="22" rx="11" stroke="#3FB950" stroke-opacity="0.55"/>
+        <circle cx="274" cy="18" r="2.5" fill="#3FB950"/>
+        <text class="txt" x="282" y="22">Spring Boot</text>
+
+        <rect class="pill" x="386" y="7" width="108" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="398" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="406" y="22">Yjs / CRDT</text>
+
+        <rect class="pill" x="504" y="7" width="136" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="516" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="524" y="22">Multi-Agent AI</text>
+
+        <rect class="pill" x="650" y="7" width="104" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="662" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="670" y="22">PostgreSQL</text>
+
+        <rect class="pill" x="764" y="7" width="84" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="776" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="784" y="22">Docker</text>
+
+        <rect class="pill" x="858" y="7" width="128" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="870" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="878" y="22">System Design</text>
+
+        <rect class="pill" x="996" y="7" width="122" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="1008" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="1016" y="22">NLP / Vision</text>
+
+        <rect class="pill" x="1128" y="7" width="120" height="22" rx="11" stroke="#3FB950" stroke-opacity="0.55"/>
+        <circle cx="1140" cy="18" r="2.5" fill="#3FB950"/>
+        <text class="txt" x="1148" y="22">DSA (211+ LC)</text>
+      </g>
+      <g transform="translate(1248, 0)">
+        <rect class="pill" x="12" y="7" width="68" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="24" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="32" y="22">LLMs</text>
+
+        <rect class="pill" x="90" y="7" width="64" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="102" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="110" y="22">RAG</text>
+
+        <rect class="pill" x="164" y="7" width="88" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="176" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="184" y="22">FastAPI</text>
+
+        <rect class="pill" x="262" y="7" width="114" height="22" rx="11" stroke="#3FB950" stroke-opacity="0.55"/>
+        <circle cx="274" cy="18" r="2.5" fill="#3FB950"/>
+        <text class="txt" x="282" y="22">Spring Boot</text>
+
+        <rect class="pill" x="386" y="7" width="108" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="398" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="406" y="22">Yjs / CRDT</text>
+
+        <rect class="pill" x="504" y="7" width="136" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="516" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="524" y="22">Multi-Agent AI</text>
+
+        <rect class="pill" x="650" y="7" width="104" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="662" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="670" y="22">PostgreSQL</text>
+
+        <rect class="pill" x="764" y="7" width="84" height="22" rx="11" stroke="#F85D7F" stroke-opacity="0.55"/>
+        <circle cx="776" cy="18" r="2.5" fill="#F85D7F"/>
+        <text class="txt" x="784" y="22">Docker</text>
+
+        <rect class="pill" x="858" y="7" width="128" height="22" rx="11" stroke="#8B5CF6" stroke-opacity="0.55"/>
+        <circle cx="870" cy="18" r="2.5" fill="#8B5CF6"/>
+        <text class="txt" x="878" y="22">System Design</text>
+
+        <rect class="pill" x="996" y="7" width="122" height="22" rx="11" stroke="#38BDF8" stroke-opacity="0.55"/>
+        <circle cx="1008" cy="18" r="2.5" fill="#38BDF8"/>
+        <text class="txt" x="1016" y="22">NLP / Vision</text>
+
+        <rect class="pill" x="1128" y="7" width="120" height="22" rx="11" stroke="#3FB950" stroke-opacity="0.55"/>
+        <circle cx="1140" cy="18" r="2.5" fill="#3FB950"/>
+        <text class="txt" x="1148" y="22">DSA (211+ LC)</text>
+      </g>
+    </g>
+    <rect x="0" y="0" width="48" height="36" fill="url(#fadeLeft)"/>
+    <rect x="852" y="0" width="48" height="36" fill="url(#fadeRight)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="34" rx="8" ry="8" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>

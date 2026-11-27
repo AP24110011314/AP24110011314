@@ -25,17 +25,18 @@
   <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
 <h2 id="-about-me"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28"> About Me</h2>
 
-My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Pradesh 🇮🇳 (CGPA 9.4/10.0).
-
+My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Pradesh 🇮🇳 (CGPA 9.4/10.0).<br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="18"> Full-Stack Developer & Competitive Programmer · 🔬 Research Intern · 📍 Amaravati, India
 
-🏆 211 LeetCode · 206 CodeChef (Bronze Badge)
-
-<a href="https://github.com/AP24110011314"><img src="./assets/open-to-work.svg" alt="Open to internships & collaborations" /></a>
+<p>
+  <a href="https://github.com/AP24110011314"><img src="./assets/open-to-work.svg" alt="Open to internships & collaborations" /></a>
+  &nbsp;
+  <a href="#-stats--activity"><img src="./assets/cp-live.svg" alt="211 LeetCode and 206 CodeChef (Bronze Badge)" /></a>
+</p>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="20"> Currently Building & Learning
 <!-- RECENT_REPOS:START -->
@@ -73,9 +74,9 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
-<h2 id="-experience">💼 Experience</h2>
+<h2 id="-experience"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="24"> Experience</h2>
 
 <details open>
 <summary><b>Work History & Research Internships</b></summary>
@@ -88,9 +89,11 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
 <h2 id="-technical-skills"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="24"> Technical Skills</h2>
+
+<p align="center"><img src="./assets/tech-marquee.svg" width="100%" height="36" alt="Core Skills Ticker" /></p>
 
 <table>
   <tr>
@@ -134,7 +137,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   </tr>
 </table>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
 <h2 id="-featured-projects"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="24"> Featured Projects</h2>
 
@@ -239,11 +242,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 </details>
 
-<p align="center">
-  <a href="https://github.com/AP24110011314?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%2028%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
 <h2 id="-stats--activity"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="24"> Stats & Activity</h2>
 
@@ -278,7 +277,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
     <td colspan="2" align="center">
       <a href="https://github.com/AP24110011314">
         <picture>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=AP24110011314&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&height=200" width="100%" alt="Activity Graph" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=AP24110011314&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&height=175" width="100%" alt="Activity Graph" />
         </picture>
       </a>
       <!-- fallback: if activity-graph is 503, the row is visually empty but the layout stays intact -->
@@ -322,7 +321,7 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" height="14" alt="" /></p>
 
 <h2 id="-connect-with-me"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="24"> Connect With Me</h2>
 
@@ -340,12 +339,6 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AP24110011314&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=350&height=22&lines=Shipping+something+every+day+%F0%9F%94%A5" alt="footer" />
-  </a>
 </p>
 
 <p align="center">
