@@ -1,59 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 85" width="100%" height="85">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" width="100%" height="76">
   <defs>
-    <linearGradient id="footGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff007f"/>
-      <stop offset="50%" stop-color="#7928ca"/>
-      <stop offset="100%" stop-color="#0070f3"/>
+    <clipPath id="footerClip">
+      <rect x="1" y="1" width="898" height="74" rx="10" ry="10"/>
+    </clipPath>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#131924"/>
+      <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
-    <linearGradient id="footGrad2" x1="100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#00dfd8"/>
-      <stop offset="50%" stop-color="#7928ca"/>
-      <stop offset="100%" stop-color="#ff0080"/>
+    <linearGradient id="horizonBeam" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#F85D7F"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
     </linearGradient>
+    <radialGradient id="footGlow" cx="50%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+      <stop offset="55%" stop-color="#F85D7F" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <style>
-    @keyframes waveLeft {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-450px); }
+    @keyframes cometRun {
+      0% { stroke-dashoffset: 900; }
+      100% { stroke-dashoffset: 0; }
     }
-    @keyframes waveRight {
-      0% { transform: translateX(-450px); }
-      100% { transform: translateX(0); }
+    @keyframes eqBar {
+      0%, 100% { transform: scaleY(0.35); opacity: 0.45; }
+      50% { transform: scaleY(1); opacity: 1; }
     }
-    .w1 {
-      animation: waveLeft 10s linear infinite;
+    @keyframes glowBreath {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
     }
-    .w2 {
-      animation: waveRight 7s linear infinite;
+    .comet {
+      stroke-dasharray: 260 640;
+      animation: cometRun 4.5s linear infinite;
     }
-    @keyframes rise {
-      0% { opacity: 0; transform: translateY(10px) scale(0.6); }
-      50% { opacity: 0.9; transform: translateY(0) scale(1.2); }
-      100% { opacity: 0; transform: translateY(-10px) scale(0.6); }
-    }
-    .p1 { animation: rise 3s ease-in-out infinite; transform-origin: 150px 35px; }
-    .p2 { animation: rise 4s ease-in-out infinite 1s; transform-origin: 320px 45px; }
-    .p3 { animation: rise 3.5s ease-in-out infinite 0.5s; transform-origin: 580px 40px; }
-    .p4 { animation: rise 4.5s ease-in-out infinite 1.5s; transform-origin: 750px 30px; }
-    .star { fill: #ffffff; filter: drop-shadow(0 0 4px #00dfd8); }
-    .foot-text {
+    .glow-area { animation: glowBreath 6s ease-in-out infinite; }
+    .eq1 { transform-origin: 48px 38px; animation: eqBar 1.4s ease-in-out infinite; }
+    .eq2 { transform-origin: 56px 38px; animation: eqBar 1.4s ease-in-out infinite 0.25s; }
+    .eq3 { transform-origin: 64px 38px; animation: eqBar 1.4s ease-in-out infinite 0.5s; }
+    .eq4 { transform-origin: 72px 38px; animation: eqBar 1.4s ease-in-out infinite 0.75s; }
+    .eq5 { transform-origin: 828px 38px; animation: eqBar 1.4s ease-in-out infinite 0.75s; }
+    .eq6 { transform-origin: 836px 38px; animation: eqBar 1.4s ease-in-out infinite 0.5s; }
+    .eq7 { transform-origin: 844px 38px; animation: eqBar 1.4s ease-in-out infinite 0.25s; }
+    .eq8 { transform-origin: 852px 38px; animation: eqBar 1.4s ease-in-out infinite; }
+    .foot-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
       font-size: 14px;
       font-weight: 600;
-      letter-spacing: 0.8px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      fill: #e2e8f0;
-      filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.6));
+      letter-spacing: 0.6px;
+      fill: #E6EDF3;
+    }
+    .foot-sub {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: 1.4px;
+      fill: #8B949E;
     }
   </style>
-  <g>
-    <path class="w1" d="M0,85 L0,25 Q112.5,5 225,25 T450,25 Q562.5,5 675,25 T900,25 Q1012.5,5 1125,25 T1350,25 L1350,85 Z" fill="url(#footGrad1)" opacity="0.45"/>
-    <path class="w2" d="M0,85 L0,38 Q112.5,58 225,38 T450,38 Q562.5,58 675,38 T900,38 Q1012.5,58 1125,38 T1350,38 L1350,85 Z" fill="url(#footGrad2)" opacity="0.55"/>
+  <rect x="1" y="1" width="898" height="74" rx="10" ry="10" fill="url(#footBg)"/>
+  <g clip-path="url(#footerClip)">
+    <rect class="glow-area" x="150" y="0" width="600" height="76" fill="url(#footGlow)"/>
+    <line x1="0" y1="74" x2="900" y2="74" stroke="#21262D" stroke-width="2"/>
+    <line class="comet" x1="0" y1="74" x2="900" y2="74" stroke="url(#horizonBeam)" stroke-width="2.5" stroke-linecap="round"/>
+    <rect class="eq1" x="46" y="28" width="3" height="20" rx="1.5" fill="#F85D7F"/>
+    <rect class="eq2" x="54" y="24" width="3" height="28" rx="1.5" fill="#8B5CF6"/>
+    <rect class="eq3" x="62" y="29" width="3" height="18" rx="1.5" fill="#38BDF8"/>
+    <rect class="eq4" x="70" y="26" width="3" height="24" rx="1.5" fill="#F85D7F"/>
+    <rect class="eq5" x="826" y="26" width="3" height="24" rx="1.5" fill="#F85D7F"/>
+    <rect class="eq6" x="834" y="29" width="3" height="18" rx="1.5" fill="#38BDF8"/>
+    <rect class="eq7" x="842" y="24" width="3" height="28" rx="1.5" fill="#8B5CF6"/>
+    <rect class="eq8" x="850" y="28" width="3" height="20" rx="1.5" fill="#F85D7F"/>
   </g>
-  <g>
-    <circle cx="150" cy="35" r="2" class="star p1"/>
-    <circle cx="320" cy="45" r="2.5" class="star p2"/>
-    <circle cx="580" cy="40" r="2" class="star p3"/>
-    <circle cx="750" cy="30" r="2.5" class="star p4"/>
-  </g>
-  <text text-anchor="middle" dominant-baseline="middle" x="450" y="65" class="foot-text">✨ Driven by Curiosity · Fueled by Code 🚀</text>
+  <rect x="1" y="1" width="898" height="74" rx="10" ry="10" fill="none" stroke="#30363D" stroke-width="1.2"/>
+  <text text-anchor="middle" x="450" y="34" class="foot-title">Driven by Curiosity  •  Crafted with Clean Code</text>
+  <text text-anchor="middle" x="450" y="54" class="foot-sub">THANKS FOR VISITING  //  LET'S BUILD SOMETHING IMPACTFUL</text>
 </svg>

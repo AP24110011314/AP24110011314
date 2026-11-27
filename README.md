@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="Aman Maddheshiya" />
 </p>
 
-<p style="margin: 0;">
+<p align="center">
   <a href="https://amanmaddheshiya.me"><img src="https://img.shields.io/badge/Portfolio-amanmaddheshiya.me-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/AP24110011314"><img src="https://img.shields.io/badge/GitHub-AP24110011314-informational?style=flat-square&color=181717&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/aman-maddheshiya"><img src="https://img.shields.io/badge/LinkedIn-Aman-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
