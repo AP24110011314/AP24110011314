@@ -276,11 +276,8 @@ My name is **Aman Maddheshiya** — B.Tech AI & ML @ SRM University, Andhra Prad
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/AP24110011314">
-        <picture>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=AP24110011314&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&height=175" width="100%" alt="Activity Graph" />
-        </picture>
+        <img src="./assets/activity-graph.svg" width="100%" alt="Contribution Activity Graph — Last 31 Days" />
       </a>
-      <!-- fallback: if activity-graph is 503, the row is visually empty but the layout stays intact -->
     </td>
   </tr>
 </table>
